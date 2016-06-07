@@ -1,8 +1,14 @@
-package ca.uwo.csd.cs2212.USERNAME;
+package my.test.bank.account;
+
+
 
 import junit.framework.Assert;
+
 import org.junit.Before;
+
 import org.junit.Test;
+
+
 
 public class TestBankAccount {
 
